@@ -64,7 +64,7 @@ pipeline {
    
     
     
-    /*
+    
     stage('Staging Warm Up') {
       steps {
         echo "Waiting for the service to start..."
